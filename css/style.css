@@ -141,7 +141,7 @@ body {
 
 .intro__para--blog-name {
     display: inline-block;
-    font-size: calc(var(--unit)*3.3);
+    font-size: calc(var(--unit)*3.2);
     font-weight: 600;
     color: #fff;
     background: #00000066;
@@ -165,7 +165,7 @@ body {
 .intro__para--blog-box {
     position: absolute;
     top: 13%;
-    left: -3%;
+    left: -1%;
     transform: translate(0%, 0%);
     font-size: calc(var(--unit)*2.3);
 }
