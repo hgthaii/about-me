@@ -417,14 +417,14 @@ body {
     background: mistyrose;
 }
 
-.video__title {
+/* .video__title {
     font-family: "Special Elite", cursive;
     position: absolute;
     top: 4450px;
     right: 510px;
     font-size: 50px;
     color: #fff;
-}
+} */
 
 .video__para {
     width: 50%;
