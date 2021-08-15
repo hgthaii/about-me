@@ -599,7 +599,7 @@ body {
 }
 
 .container:hover .click {
-    transition: 0s;
+    transition: 2s;
     z-index: -1;
 }
 
