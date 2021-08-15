@@ -212,7 +212,7 @@ body {
 
 .image {
     width: 100%;
-    height: calc(var(--unit)*50);
+    height: calc(var(--unit)*60);
     background: #FAF8F0;
     margin-top: calc(var(--unit)*4);
     display: flex;
@@ -327,7 +327,7 @@ body {
 
 .image-2 {
     width: 100%;
-    height: calc(var(--unit)*90);
+    height: calc(var(--unit)*100);
     display: flex;
     justify-content: center;
     align-items: center;
