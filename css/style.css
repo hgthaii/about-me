@@ -141,7 +141,7 @@ body {
 
 .intro__para--blog-name {
     display: inline-block;
-    font-size: calc(var(--unit)*3.4);
+    font-size: calc(var(--unit)*3.3);
     font-weight: 600;
     color: #fff;
     background: #00000066;
@@ -172,7 +172,8 @@ body {
 
 .intro__para--blog-write-1 {
     margin-bottom: calc(var(--unit)*-1);
-    font-family: "Special Elite", cursive;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
     font-size: calc(var(--unit)*2.1);
     color: indianred;
 }
@@ -199,7 +200,7 @@ body {
     width: 100vw;
     height: calc(var(--unit)*5);
     text-align: center;
-    font-family: "Special Elite", cursive;
+    font-family: 'Courier New', Courier, monospace;
     /* font-weight: bold; */
     color: indianred;
     position: absolute;
@@ -419,8 +420,8 @@ body {
 .video__title {
     font-family: "Special Elite", cursive;
     position: absolute;
-    top: 4500px;
-    right: 530px;
+    top: 4450px;
+    right: 510px;
     font-size: 50px;
     color: #fff;
 }
